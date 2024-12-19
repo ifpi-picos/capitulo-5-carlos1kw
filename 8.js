@@ -1,6 +1,3 @@
-// Crie um programa que simula um restaurante. O usuário escolhe um prato do menu
-//(opções: pizza, hambúrguer, salada, macarrão) usando a instrução switch. Para cada
-//ato escolhido, exiba o preço e a descrição do prato.
 
 const prato = prompt("Escolha um prato: 1 - Pizza\ 2 - Hambúrguer\ 3 - Salada\ 4 - Macarrão:");
 
